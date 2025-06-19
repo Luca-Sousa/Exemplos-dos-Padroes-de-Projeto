@@ -7,8 +7,8 @@ Repositório com exemplos práticos dos padrões de projeto **Abstract Factory**
 - Ana Flávia de Sousa Oliveira  
 - Izael de Araujo Silva  
 - Lucas de Sousa Silva  
-- Cynthia Pinheiro Santiago  
-- **Professor**: Vandi Vieira dos Santos Junior
+- Vandi Vieira dos Santos Junior
+- **Professora**: Cynthia Pinheiro Santiago  
 
 ---
 
